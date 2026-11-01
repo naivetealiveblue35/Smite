@@ -217,4 +217,4 @@ SMITE is offered as a full free version with all features and updates included. 
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-11-01 04:02:28 UTC
+**Last updated:** 2026-11-01 11:37:47 UTC
